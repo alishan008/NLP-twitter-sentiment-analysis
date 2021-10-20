@@ -52,10 +52,10 @@ import json
 import threading
 
 # Twitter developer Credentials to connect to twitter account
-access_token = "1349741730791211009-EK0sfJl2Pii39XZPqm01kpOc3DLG3m"
-access_secret= "qDJMRudNSbLivCvq81YEEgGkDSjAOnIYO9ozzJIJLfBwF"
-consumer_key = "qEOSXDRumiptN17uNBlviYKUG"
-consumer_secret = "U2VowST2I0mCrZbdjremTYGUCv0BLKDHOiQY9ZsCwGbI7XtTNb"
+access_token = ""
+access_secret= ""
+consumer_key = ""
+consumer_secret = ""
 
 # Setting twitter developer credentials with TweePy
 auth = OAuthHandler(consumer_key, consumer_secret)
